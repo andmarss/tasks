@@ -18,10 +18,16 @@
     - Форма: oiv/booking/
     - Предварительный вывод: Не известно
 
+№10627
+    - Ссылка на репо: https://repo.mos.ru/issues/10627
+    - Статус: нечего делать
+    - Форма: mka/262
+    - Предварительный вывод: 23.10.2018
+
 Формы в разработке:
 
-dogm/isppnew:
-    - Ссылка на форму: http://ispp.am.mpgu.srvdev.ru/ru/application/dogm/isppnew
+dogm/063101 (ИС ПП):
+    - Ссылка на форму: http://ispp.am.mpgu.srvdev.ru/ru/application/dogm/063101
     - Используемый протокол: v6_1
     - Использование ЕТП для отправки: Да
     - id ведомства: dogm
